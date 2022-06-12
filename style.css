@@ -94,6 +94,7 @@ body {
 
 .github:hover {
   color: var(--white-text);
+  cursor: pointer;
 }
 
 .card a {
