@@ -102,6 +102,7 @@ body {
   text-decoration: none;
   margin-top: 0.5rem;
   line-height: 2.6rem;
+  position: relative;
 }
 
 .card__bio {
